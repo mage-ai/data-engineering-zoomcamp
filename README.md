@@ -26,7 +26,7 @@ git clone https://github.com/mage-ai/mage-zoomcamp.git mage-zoomcamp
 Navigate to the repo:
 
 ```bash
-cd mage-data-engineering-zoomcamp
+cd mage-zoomcamp
 ```
 
 Rename `dev.env` to simply `.env`— this will _ensure_ the file is not committed to Git by accident, since it _will_ contain credentials in the future.
