@@ -1,5 +1,6 @@
 #Added by Anthony
 .env
+googlekey
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
